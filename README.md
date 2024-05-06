@@ -41,6 +41,7 @@ Developed by:Pranavesh Saikumar
 
 RegisterNumber: 212223040149
 
+```
 module EXP10(clk, sin, q);
 input clk;
 input sin;
@@ -54,6 +55,7 @@ q[2] <= q[1];
 q[3] <= q[2];
 end
 endmodule
+```
 
 **RTL LOGIC FOR SISO Shift Register**
 
